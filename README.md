@@ -26,6 +26,8 @@ https://github.com/mandeeps207/uk-electrician-route-checker
 
 The package has a root `plugin.json`, `mcp.json` and three discoverable skills. Client installation interfaces and supported components vary. Review the remote MCP connection before enabling it. No API key is required.
 
+A separate `.cursor-plugin/plugin.json` provides Cursor-format metadata, including the human-readable display name, for clients and directories that use that discovery path. The root Agent Plugins manifest remains schema-conformant; both manifests identify the same plugin and use the same MCP configuration and skills.
+
 ## Included skills
 
 | Skill | Purpose |

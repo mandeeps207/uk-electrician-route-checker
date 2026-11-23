@@ -1,0 +1,17 @@
+{
+  "name": "uk-electrician-route-checker",
+  "displayName": "UK Electrician Route Checker",
+  "version": "1.0.0",
+  "description": "Plan UK electrician qualification routes, understand Level 2, Level 3, 18th Edition, NVQ, AM2 and ECS progression, and identify the next appropriate training or workplace step.",
+  "author": {
+    "name": "Elec Training Ltd",
+    "email": "enquiry@elec.training",
+    "url": "https://elec.training/"
+  },
+  "publisher": "Elec Training Ltd",
+  "homepage": "https://elec.training/",
+  "repository": "https://github.com/mandeeps207/uk-electrician-route-checker",
+  "license": "MIT",
+  "keywords": ["electrician", "electrical-training", "uk", "career-planning", "qualifications", "nvq", "education", "training"],
+  "mcpServers": "./mcp.json"
+}
