@@ -4,9 +4,7 @@
   "version": "1.0.0",
   "description": "Plan UK electrician qualification routes, understand Level 2, Level 3, 18th Edition, NVQ, AM2 and ECS progression, and identify the next appropriate training or workplace step.",
   "author": {
-    "name": "Elec Training Ltd",
-    "email": "enquiry@elec.training",
-    "url": "https://elec.training/"
+    "name": "Elec Training Ltd"
   },
   "publisher": "Elec Training Ltd",
   "homepage": "https://elec.training/",
